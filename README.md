@@ -37,7 +37,7 @@
 ### Circuit Diagram
 ![SE-SRAM](Images/CircuitDiagram/sesram_cir.png)
 ### Pre-Layout simulation
-![SE-SRAM Pre-Layout](Images/SimulationPic/sram_simu.png)
+![SE-SRAM Pre-Layout](Images/SimulationPic/sesram_simu.png)
 ### Layout
 ![Layout_SE-SRAM](Images/LayoutPic/sesram_layout.png)
 
